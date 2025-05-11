@@ -92,7 +92,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'pulse_shop_db',
         'USER': 'postgres',
-        'PASSWORD': 'erfan1383',
+        'PASSWORD': 'your_database_pass',
         'HOST': 'localhost',
         'PORT': '5432',
     }
